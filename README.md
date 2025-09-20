@@ -4,8 +4,17 @@ if you aren't experienced with github:
 at the top of the page, open the folder named `IV`
 and you can navigate the files similar to OneDrive
 
+
 >[!IMPORTANT]
 > view in `.pdf` file
+
+>[!WARNING]
+> for some reason on github web mobile only the first page of the pdfs show :( 
+>
+> so if 28B.pdf only shows 1 page make sure to request desktop website on your browser 
+
+
+## technical things
 
 pull request edits into `.tex` files (or just message me)
 
