@@ -1,8 +1,13 @@
 # athenaze notes
 
-view in `.pdf` file
+if you aren't experienced with github:
+at the top of the page, open the folder named `IV`
+and you can navigate the files similar to OneDrive
 
-pull request edits into `.tex` files
+>[!IMPORTANT]
+> view in `.pdf` file
+
+pull request edits into `.tex` files (or just message me)
 
 > [!WARNING]
 > the commit and branch structure of this will be horrid, 
