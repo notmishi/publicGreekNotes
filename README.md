@@ -15,6 +15,7 @@ and you can navigate the files similar to OneDrive
 
 
 to edit without LaTeX, download pdf files and open them with word or acrobat or something
+
 otherwise with tex you can recompile them using LuaLatex
 
 
