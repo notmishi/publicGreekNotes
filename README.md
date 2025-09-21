@@ -14,9 +14,8 @@ and you can navigate the files similar to OneDrive
 > so if 28B.pdf only shows 1 page make sure to request desktop website on your browser 
 
 
-## technical things
-
-pull request edits into `.tex` files (or just message me)
+to edit without LaTeX, download pdf files and open them with word or acrobat or something
+otherwise with tex you can recompile them using LuaLatex
 
 
 > [!WARNING]
